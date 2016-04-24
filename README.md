@@ -1,2 +1,2 @@
 # ourhouse
-A dashboard for OurHouse.tech - showing all the IoT / Home Automation stuff we've got.
+A dashboard for http://OurHouse.tech/ - showing all the IoT / Home Automation stuff we've got.
